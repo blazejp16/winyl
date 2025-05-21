@@ -2,10 +2,10 @@ document.addEventListener("DOMContentLoaded", () => {
 	fetch("data/data.json")
 	.then(response => {
 		if (!response.ok) throw new Error(`Błąd sieci: ${response.status}`);
-		return response.json;
+		return response.json();
 	})
 	.then(data => {
-		const container = document.getElementByIdO("collection-box");
+		const container = document.getElementById("collection-box");
 
 		if (!data.collection) {
 			container.textContent = "Nieprawidłowy format pliku: brak pola 'collection' jako tablicy.";
@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
 			artist.textContent = author;
 
 			const details = document.createElement("p");
-			details.innerHTML = description + ". W kolekcji od: " + date;
+			details.innerHTML = description + ". \nW kolekcji od: " + date;
 			
 			const desc = document.createElement("div");
 			desc.className = "card-desc";
