@@ -1,0 +1,25 @@
+{
+	"collection": [
+		{
+			"name": "Trench",
+			"author": "twenty one pilots",
+			"description": "2xLP, black, 2018",
+			"date": "16-03-2025",
+			"photo": "images/trench-twentyonepilots.jpg"
+		},
+		{
+			"name": "Clancy",
+			"author": "twenty one pilots",
+			"description": "LP, black, 2024",
+			"date": "16-03-2025",
+			"photo": "images/clancy-twentyonepilots.jpg"
+		},
+		{
+			"name": "good kid, m.A.A.d. city (deluxe)",
+			"author": "Kendrick Lamar",
+			"description": "2xLP, black, 2012",
+			"date": "22-03-2025",
+			"photo": "images/goodkidmaadcity-kendricklamar.jpg"
+		}		
+	]
+}
