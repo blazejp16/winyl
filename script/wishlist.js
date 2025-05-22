@@ -102,6 +102,51 @@ document.addEventListener("DOMContentLoaded", () => {
 
 			wishlistContainer.append(card);
 		});
+
+		const unavailableContainer = document.getElementById("unavailable-box");
+
+		if (!data.unavailable) {
+			unavailableContainer.textContent = "Nieprawidłowy format pliku: brak pola 'unavailable' jako tablicy.";
+			return;
+		}
+
+		if (data.unavailable.length === 0) {
+			unavailableContainer.textContent = "Pusta lista.";
+			return;
+		}
+
+		unavailable = data.unavailable;
+		shuffle(unavailable);
+		unavailable.forEach(item => {
+			const {name, author, description, photo} = item;
+			if (!name || !author || !description || !photo) {
+				console.warn("Pominięto niepoprawny obiekt: ", item);
+				return;
+			}
+
+			const title = document.createElement("h2");
+			title.textContent = name;
+
+			const artist = document.createElement("h3");
+			artist.textContent = author;
+
+			const details = document.createElement("p");
+			details.innerHTML = description;
+
+			const desc = document.createElement("div");
+			desc.className = "card-desc";
+			desc.append(title, artist, details);
+			
+			const image = document.createElement("img");
+			image.src = photo;
+			image.alt = name + " - " + author;
+
+			const card = document.createElement("div");
+			card.className = "card";
+			card.append(image, desc);
+
+			unavailableContainer.append(card);
+		});
 	})
 	.catch(error => {
 		const container = document.getElementById("favourites-box");

@@ -209,5 +209,62 @@
 			"link": "https://www.muziker.pl/joey-bada-2000-2-lp",
 			"photo": "images/2000-joeybadass.jpg"
 		}
+	],
+
+	"unavailable": [
+		{
+			"name": "Section.80",
+			"author": "Kendrick Lamar",
+			"description": "nigdy nie wydane na winylu, CD już nie wydawane",
+			"photo": "images/section80-kendricklamar.jpg"
+		},
+		{
+			"name": "Chromakopia",
+			"author": "Tyler, the Creator",
+			"description": "wydane na winylu tylko w limitowanej edycji, już niedostępnej, tak samo CD",
+			"photo": "images/chromakopia-tylerthecreator.jpg"
+		}, 
+		{
+			"name": "Friday Night Lights",
+			"author": "J. Cole",
+			"description": "nigdy nie wydane na winylu, CD już nie wydawane",
+			"photo": "images/fridaynightlights-jcole.jpg"
+		},
+		{
+			"name": "Might Delete Later",
+			"author": "J. Cole",
+			"description": "nigdy nie wydane na winylu ani jako CD",
+			"photo": "images/mightdeletelater-jcole.jpg"
+		},
+		{
+			"name": "Graduation",
+			"author": "Kanye West",
+			"description": "nigdy nie wydane na winylu, dostępne CD",
+			"photo": "images/graduation-kanyewest.jpg"
+		},
+		{
+			"name": "channel ORANGE",
+			"author": "Frank Ocean",
+			"description": "nigdy nie wydane na winylu, dostępne CD",
+			"photo": "images/channelorange-frankocean.jpg"
+		},
+		{
+			"name": "1999",
+			"author": "Joey Bada$$",
+			"description": "już nie wydawane na winylu ani CD",
+			"photo": "images/1999-joeybadass.jpg"
+		},
+		{
+			"name": "B4.DA.$$",
+			"author": "Joey Bada$$",
+			"description": "już nie wydawane na winylu ani CD",
+			"photo": "images/b4dass-joeybadass.jpg"
+		},
+		{
+			"name": "All-Amerikkkan Bada$$",
+			"author": "Joey Bada$$",
+			"description": "już nie wydawane na winylu ani CD",
+			"photo": "images/allamerikkkanbadass-joeybadass.jpg"
+		}
 	]
 }
