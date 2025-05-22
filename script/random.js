@@ -51,6 +51,7 @@ button.addEventListener("click", () => {
 
 		container.append(card);
 		container.style.visibility = "visible";
+		container.style.width = "90%";
 	})
 	.catch(error => {
 		const container = document.getElementById("random-box");
