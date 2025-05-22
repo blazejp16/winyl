@@ -65,7 +65,7 @@ h1 {
 	font-size: 30px;
 }
 
-.collection-box {
+.collection-box, .favourites-box, .wishlist-box, .unavailable-box {
 	width: 90%;
 
 	display: grid;
@@ -99,13 +99,13 @@ h1 {
 		gap: 30px;
 	}
 
-	.collection-box {
+	.collection-box, .favourites-box, .wishlist-box, .unavailable-box {
 		grid-template-columns: repeat(2, 1fr);
 	}
 }
 
 @media (min-width: 1200px) {
-	.collection-box {
+	.collection-box, .favourites-box, .wishlist-box, .unavailable-box {
 		grid-template-columns: repeat(3, 1fr);
 	}
 }

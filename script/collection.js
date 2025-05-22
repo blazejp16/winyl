@@ -40,6 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 			const image = document.createElement("img");
 			image.src = photo;
+			image.alt = name + " " + author;
 
 			const card = document.createElement("div");
 			card.className = "card";
