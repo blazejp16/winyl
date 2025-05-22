@@ -21,5 +21,29 @@
 			"date": "22-03-2025",
 			"photo": "images/goodkidmaadcity-kendricklamar.jpg"
 		}		
+	],
+
+	"favourites": [
+		{
+			"name": "Blurryface",
+			"author": "twenty one pilots",
+			"description": "2xLP, red, 10-th anniversary edition",
+			"link": "https://store.twentyonepilots.com/products/blurryface-10th-anniversary-vinyl-coffee-table-book",
+			"photo": "images/blurryface-twentyonepilots.jpg"
+		}, 
+		{
+			"name": "Breach",
+			"author": "twenty one pilots",
+			"description": "First pressing edition, w przedsprzedaży do 12.06.2025, wysyłane we wrześniu",
+			"link": "https://twentyonepilots.warnerartists.net/eu/breach-vinyl-%5Bfirst-pressing-edition%5D/0075678595363.html",
+			"photo": "images/breach-twentyonepilots.jpg"
+		},
+		{
+			"name": "To Pimp A Butterfly",
+			"author": "Kendrick Lamar",
+			"description": "2xLP, black coloured, 10-th anniversary edition",
+			"link": "https://www.empik.com/to-pimp-a-butterfly-10th-anniversary-exclusive-lp-kendrick-lamar,p1595008233,muzyka-p",
+			"photo": "images/topimpabutterfly-kendricklamar.jpg"
+		}
 	]
 }

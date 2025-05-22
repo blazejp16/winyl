@@ -38,6 +38,11 @@ header ul li:hover {
 	background-color: #000060;
 }
 
+header ul li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
 .current {
 	font-weight: bold;
 }
