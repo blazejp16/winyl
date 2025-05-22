@@ -53,161 +53,184 @@
 			"author": "twenty one pilots",
 			"description": "LP, silver, 2013",
 			"link": "https://winylownia.pl/pl/products/twenty-one-pilots-vessel-lp-silver-vinyl-105806.html",
-			"photo": "images/vessel-twentyonepilots.jpg"
+			"photo": "images/vessel-twentyonepilots.jpg",
+			"chance": 3
 		},
 		{
 			"name": "Scaled And Icy",
 			"author": "twenty one pilots",
 			"description": "LP, light blue, 2021",
 			"link": "https://twentyonepilots.warnerartists.net/eu/twenty-one-pilots/music/scaled-and-icy-light-blue-vinyl/0075678641589.html",
-			"photo": "images/scaledandicy-twentyonepilots.jpg"
+			"photo": "images/scaledandicy-twentyonepilots.jpg",
+			"chance": 3
 		},
 		{
 			"name": "Untitled Unmastered",
 			"author": "Kendrick Lamar",
 			"description": "LP, black, 2016",
 			"link": "https://winylownia.pl/pl/products/kendrick-lamar-untitled-unmastered-lp-14369.html?query_id=5",
-			"photo": "images/untitledunmastered-kendricklamar.jpg"
+			"photo": "images/untitledunmastered-kendricklamar.jpg",
+			"chance": 3
 		},
 		{
 			"name": "DAMN.",
 			"author": "Kendrick Lamar",
 			"description": "2xLP, black, 2017",
 			"link": "https://winylownia.pl/pl/products/kendrick-lamar-damn-2lp-14370.html?query_id=2",
-			"photo": "images/damn-kendricklamar.jpg"
+			"photo": "images/damn-kendricklamar.jpg",
+			"chance": 7
 		},
 		{
 			"name": "Mr. Morale & The Big Steppers",
 			"author": "Kendrick Lamar",
 			"description": "2xLP, gold, 2022",
 			"link": "https://interscope.com/products/mr-morale-the-big-steppers-exclusive-vinyl?srsltid=AfmBOorm5neSaEK480DpqtFyNrbr1sK9pxPkrwlA0A_RtS5rGt7284NW",
-			"photo": "images/mrmoraleandthebigsteppers-kendricklamar.jpg"
+			"photo": "images/mrmoraleandthebigsteppers-kendricklamar.jpg",
+			"chance": 7
 		},
 		{
 			"name": "GNX",
 			"author": "Kendrick Lamar",
 			"description": "LP, blue, 2024",
 			"link": "https://winylownia.pl/pl/products/kendrick-lamar-gnx-lp-blue-246448.html?query_id=6", 
-			"photo": "images/gnx-kendricklamar.jpg"
+			"photo": "images/gnx-kendricklamar.jpg",
+			"chance": 5
 		},
 		{
 			"name": "Flower Boy",
 			"author": "Tyler, the Creator",
 			"description": "2xLP, black, 2017",
 			"link": "https://www.muziker.pl/tyler-the-creator-scum-fuck-flower-boy-gatefold-sleeve-2-lp",
-			"photo": "images/flowerboy-tylerthecreator.jpg"
+			"photo": "images/flowerboy-tylerthecreator.jpg",
+			"chance": 7
 		},
 		{
 			"name": "IGOR",
 			"author": "Tyler, the Creator",
 			"description": "LP, black, 2019",
 			"link": "https://www.muziker.pl/tyler-the-creator-igor",
-			"photo": "images/igor-tylerthecreator.jpg"
+			"photo": "images/igor-tylerthecreator.jpg",
+			"chance": 7
 		},
 		{
 			"name": "Call Me If You Get Lost: The Estate Sale",
 			"author": "Tyler, the Creator",
 			"description": "3xLP, blue, 2023",
 			"link": "https://www.muziker.pl/tyler-the-creator-call-me-if-you-get-lost-the-estate-sale-limited-edition-blue-coloured-3-lp",
-			"photo": "images/callmeifyougetlosttheestatesale-tylerthecreator.jpg"
+			"photo": "images/callmeifyougetlosttheestatesale-tylerthecreator.jpg",
+			"chance": 10
 		},
 		{
 			"name": "Born Sinner",
 			"author": "J. Cole",
 			"description": "2xLP, gold, 10-th anniversary edition, 2013",
 			"link": "https://interscope.com/products/born-sinner-deluxe-opaque-gold-vinyl-10-year-anniversary?srsltid=AfmBOoqbNd9-9cBYgM_QtSaJCLVPZ8BS_hgDzBRDUywPHJEahZfNYJzV",
-			"photo": "images/bornsinner-jcole.jpg"
+			"photo": "images/bornsinner-jcole.jpg",
+			"chance": 7
 		},
 		{
 			"name": "2014 Forest Hills Drive",
 			"author": "J. Cole",
 			"description": "2xLP, blue, 10-th anniversary edition, 2014",
 			"link": "https://interscope.com/products/2014-forest-hills-drive-vinyl-10-year-anniversary-edition?srsltid=AfmBOoob2nb7jdo9tDc69a2l7c3ofPTkeeemWdbarpv03i-CuIDVxvty",
-			"photo": "images/2014foresthillsdrive-jcole.jpg"
+			"photo": "images/2014foresthillsdrive-jcole.jpg",
+			"chance": 10
 		},
 		{
 			"name": "4 Your Eyez Only",
 			"author": "J. Cole",
 			"description": "2xLP, black, 2016",
 			"link": "https://www.muziker.pl/j-cole-4-your-eyez-only-lp",
-			"photo": "images/4youreyezonly-jcole.jpg"
+			"photo": "images/4youreyezonly-jcole.jpg",
+			"chance": 7
 		},
 		{
 			"name": "KOD",
 			"author": "J. Cole",
 			"description": "LP, black, 2018",
 			"link": "https://interscope.com/products/j-cole-kod-vinyl",
-			"photo": "images/kod-jcole.jpg"
+			"photo": "images/kod-jcole.jpg",
+			"chance": 1
 		},
 		{
 			"name": "The Off-Season",
 			"author": "J. Cole",
 			"description": "LP, black, 2021",
 			"link": "https://www.empik.com/the-off-season-j-cole,p1357134374,muzyka-p",
-			"photo": "images/theoffseason-jcole.jpg"
+			"photo": "images/theoffseason-jcole.jpg",
+			"chance": 3
 		},
 		{
 			"name": "The Forever Story",
 			"author": "JID",
 			"description": "2xLP, silver, 2022",
 			"link": "https://interscope.com/products/the-forever-story-limited-edition-silver-vinyl-2lp?_pos=2&_sid=673f15748&_ss=r",
-			"photo": "images/theforeverstory-jid.jpg"
+			"photo": "images/theforeverstory-jid.jpg",
+			"chance": 10
 		},
 		{
 			"name": "Di Caprio 2",
 			"author": "JID",
 			"description": "LP, black, 2018",
 			"link": "https://www.muziker.pl/j-i-d-dicaprio-2-lp",
-			"photo": "images/dicaprio2-jid.jpg"
+			"photo": "images/dicaprio2-jid.jpg",
+			"chance": 3
 		},
 		{
 			"name": "The Never Story",
 			"author": "JID",
 			"description": "LP, black, 2017",
 			"link": "https://interscope.com/products/jid-the-never-story-lp?_pos=1&_sid=673f15748&_ss=r",
-			"photo": "images/theneverstory-jid.jpg"
+			"photo": "images/theneverstory-jid.jpg",
+			"chance": 3
 		},
 		{
 			"name": "The College Dropout",
 			"author": "Kanye West",
 			"description": "2xLP, black, 2004",
 			"link": "https://winylownia.pl/pl/products/kanye-west-the-college-dropout-2lp-94997.html?query_id=21",
-			"photo": "images/thecollegedropout-kanyewest.jpg"
+			"photo": "images/thecollegedropout-kanyewest.jpg",
+			"chance": 5
 		},
 		{
 			"name": "Late Registration",
 			"author": "Kanye West",
 			"description": "2xLP, black, 2005",
 			"link": "https://winylownia.pl/pl/products/kanye-west-late-registration-2lp-94999.html?query_id=21",
-			"photo": "images/lateregistration-kanyewest.jpg"
+			"photo": "images/lateregistration-kanyewest.jpg",
+			"chance": 5
 		},
 		{
 			"name": "My Beautiful Dark Twisted Fantasy",
 			"author": "Kanye West",
 			"description": "3xLP, black, 2010",
 			"link": "https://winylownia.pl/pl/products/kanye-west-my-beautiful-dark-twisted-fantasy-3lp-65589.html?query_id=21",
-			"photo": "images/mybeautifuldarktwistedfantasy-kanyewest.jpg"
+			"photo": "images/mybeautifuldarktwistedfantasy-kanyewest.jpg",
+			"chance": 7
 		},
 		{
 			"name": "KIDS SEE GHOSTS",
 			"author": "Kanye West, Kid Cudi",
 			"description": "LP, black, 2018",
 			"link": "https://www.muziker.pl/kids-see-ghosts-kids-see-ghosts-vinyl-lp",
-			"photo": "images/kidsseeghosts-kanyewestkidcudi.jpg"
+			"photo": "images/kidsseeghosts-kanyewestkidcudi.jpg",
+			"chance": 3
 		},
 		{
 			"name": "Blonde",
 			"author": "Frank Ocean",
 			"description": "2xLP, black, 2016",
 			"link": "https://blonded.co",
-			"photo": "images/blonde-frankocean.jpg"
+			"photo": "images/blonde-frankocean.jpg",
+			"chance": 10
 		},
 		{
 			"name": "2000",
 			"author": "Joey Bada$$",
 			"description": "2xLP, black, 2022",
 			"link": "https://www.muziker.pl/joey-bada-2000-2-lp",
-			"photo": "images/2000-joeybadass.jpg"
+			"photo": "images/2000-joeybadass.jpg",
+			"chance": 7
 		}
 	],
 

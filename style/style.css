@@ -65,11 +65,15 @@ h1 {
 	font-size: 30px;
 }
 
-.collection-box, .favourites-box, .wishlist-box, .unavailable-box {
+.collection-box, .favourites-box, .wishlist-box, .unavailable-box, .random-box {
 	width: 90%;
 
 	display: grid;
 	gap: 5px;
+}
+
+.random-box {
+	visibility: collapse;
 }
 
 .card {
@@ -92,6 +96,18 @@ h1 {
 	text-align: center;
 }
 
+button {
+	border-radius: 10px;
+	background-color: #000040;
+	color: #ffffff;
+	font-size: 25px;
+	padding: 10px;
+}
+
+button:hover {
+	background-color: #000060;
+}
+
 @media (min-width: 600px) {
 	header ul {
 		margin: 20px;
@@ -99,13 +115,13 @@ h1 {
 		gap: 30px;
 	}
 
-	.collection-box, .favourites-box, .wishlist-box, .unavailable-box {
+	.collection-box, .favourites-box, .wishlist-box, .unavailable-box, .random-box {
 		grid-template-columns: repeat(2, 1fr);
 	}
 }
 
 @media (min-width: 1200px) {
-	.collection-box, .favourites-box, .wishlist-box, .unavailable-box {
+	.collection-box, .favourites-box, .wishlist-box, .unavailable-box, .random-box {
 		grid-template-columns: repeat(3, 1fr);
 	}
 }
