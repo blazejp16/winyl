@@ -7,19 +7,19 @@ document.addEventListener("DOMContentLoaded", () => {
 	.then(data => {
 		const favouritesContainer = document.getElementById("favourites-box");
 
-		if (!data.favourites) {
-			favouritesContainer.textContent = "Nieprawidłowy format pliku: brak pola 'favourites' jako tablicy.";
+		if (!data.prerelease) {
+			favouritesContainer.textContent = "Nieprawidłowy format pliku: brak pola 'prerelease' jako tablicy.";
 			return;
 		}
 
-		if (data.favourites.length === 0) {
+		if (data.prerelease.length === 0) {
 			favouritesContainer.textContent = "Pusta lista.";
 			return;
 		}
 
-		favourites = data.favourites;
-		shuffle(favourites);
-		favourites.forEach(item => {
+		prerelease = data.prerelease;
+		shuffle(prerelease);
+		prerelease.forEach(item => {
 			const {name, author, description, link, photo} = item;
 			if (!name || !author || !description || !link || !photo) {
 				console.warn("Pominięto niepoprawny obiekt: ", item);
