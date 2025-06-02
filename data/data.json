@@ -20,119 +20,119 @@
 			"description": "2xLP, black, 2012",
 			"date": "22-03-2025",
 			"photo": "images/goodkidmaadcity-kendricklamar.jpg"
-		}		
+		},
+		{
+			"name": "Scaled And Icy",
+			"author": "twenty one pilots",
+			"description": "LP, black, 2021",
+			"date": "02-06-2025",
+			"photo": "images/scaledandicy-twnetyonepilots.jpg"
+		}
 	],
 
-	"favourites": [
+	"prerelease": [
 		{
 			"name": "Blurryface",
 			"author": "twenty one pilots",
-			"description": "2xLP, red, 2015, 10-th anniversary edition, w przedsprzedaży do 27.06.2025",
-			"link": "https://store.twentyonepilots.com/products/blurryface-10th-anniversary-vinyl-coffee-table-book",
+			"description": "2xLP, red, 2015, 10-th anniversary edition, w przedsprzedaży, wydawana 27.06.2025",
+			"link": "https://twentyonepilots.warnerartists.net/eu/blurryface-10th-anniversary-vinyl-coffee-table-book/0075678615283.html",
 			"photo": "images/blurryface-twentyonepilots.jpg"
 		}, 
 		{
 			"name": "Breach",
 			"author": "twenty one pilots",
-			"description": "First pressing edition, w przedsprzedaży do 12.06.2025, wysyłane we wrześniu",
+			"description": "First pressing edition, w przedsprzedaży do 12.06.2025, wydawana we wrześniu",
 			"link": "https://twentyonepilots.warnerartists.net/eu/breach-vinyl-%5Bfirst-pressing-edition%5D/0075678595363.html",
 			"photo": "images/breach-twentyonepilots.jpg"
-		},
-		{
-			"name": "To Pimp A Butterfly",
-			"author": "Kendrick Lamar",
-			"description": "2xLP, black coloured, 2015, 10-th anniversary edition",
-			"link": "https://www.empik.com/to-pimp-a-butterfly-10th-anniversary-exclusive-lp-kendrick-lamar,p1595008233,muzyka-p",
-			"photo": "images/topimpabutterfly-kendricklamar.jpg"
 		}
 	],
 
 	"wishlist": [
 		{
-			"name": "Vessel",
-			"author": "twenty one pilots",
-			"description": "LP, silver, 2013",
-			"link": "https://winylownia.pl/pl/products/twenty-one-pilots-vessel-lp-silver-vinyl-105806.html",
-			"photo": "images/vessel-twentyonepilots.jpg",
-			"chance": 3
+			"name": "To Pimp A Butterfly",
+			"author": "Kendrick Lamar",
+			"description": "2xLP, black coloured, 2015, 10-th anniversary edition",
+			"link": "https://www.empik.com/to-pimp-a-butterfly-10th-anniversary-exclusive-lp-kendrick-lamar,p1595008233,muzyka-p",
+			"photo": "images/topimpabutterfly-kendricklamar.jpg",
+			"chance": 10
 		},
 		{
-			"name": "Scaled And Icy",
+			"name": "Vessel",
 			"author": "twenty one pilots",
-			"description": "LP, light blue, 2021",
-			"link": "https://twentyonepilots.warnerartists.net/eu/twenty-one-pilots/music/scaled-and-icy-light-blue-vinyl/0075678641589.html",
-			"photo": "images/scaledandicy-twentyonepilots.jpg",
-			"chance": 3
+			"description": "LP, clear, 2013",
+			"link": "https://winylownia.pl/pl/products/twenty-one-pilots-vessel-lp-clear-248473.html?gad_source=1&gad_campaignid=16862789932&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzg1vZjIthxZ8Tg3goCXHVbhlcLdfKf4lIGqlwPfBOnE4l0FB7Z7VLRoC2d8QAvD_BwE",
+			"photo": "images/vessel-twentyonepilots.jpg",
+			"chance": 5
 		},
 		{
 			"name": "Untitled Unmastered",
 			"author": "Kendrick Lamar",
 			"description": "LP, black, 2016",
-			"link": "https://winylownia.pl/pl/products/kendrick-lamar-untitled-unmastered-lp-14369.html?query_id=5",
+			"link": "https://winylownia.pl/pl/products/kendrick-lamar-untitled-unmastered-lp-14369.html?gad_source=1&gad_campaignid=16862789932&gclid=CjwKCAjwl_XBBhAUEiwAWK2hztj2O5ifiuwSwJ0h3Owtrcxm9OEBH5kv1YxsNDpKZz7jLERsmlqELhoC60cQAvD_BwE",
 			"photo": "images/untitledunmastered-kendricklamar.jpg",
-			"chance": 3
+			"chance": 1
 		},
 		{
 			"name": "DAMN.",
 			"author": "Kendrick Lamar",
 			"description": "2xLP, black, 2017",
-			"link": "https://winylownia.pl/pl/products/kendrick-lamar-damn-2lp-14370.html?query_id=2",
+			"link": "https://winylownia.pl/pl/products/kendrick-lamar-damn-2lp-14370.html?gad_source=1&gad_campaignid=16862789932&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzrFkyCzw3OxfHjJvdvwG7lyipPh9AXVOU_3wG6JnfPJc2NthhzbA2RoCHWkQAvD_BwE",
 			"photo": "images/damn-kendricklamar.jpg",
-			"chance": 7
+			"chance": 5
 		},
 		{
 			"name": "Mr. Morale & The Big Steppers",
 			"author": "Kendrick Lamar",
 			"description": "2xLP, gold, 2022",
-			"link": "https://interscope.com/products/mr-morale-the-big-steppers-exclusive-vinyl?srsltid=AfmBOorm5neSaEK480DpqtFyNrbr1sK9pxPkrwlA0A_RtS5rGt7284NW",
+			"link": "https://interscope.com/products/mr-morale-the-big-steppers-exclusive-vinyl",
 			"photo": "images/mrmoraleandthebigsteppers-kendricklamar.jpg",
-			"chance": 7
+			"chance": 8
 		},
 		{
 			"name": "GNX",
 			"author": "Kendrick Lamar",
 			"description": "LP, blue, 2024",
-			"link": "https://winylownia.pl/pl/products/kendrick-lamar-gnx-lp-blue-246448.html?query_id=6", 
+			"link": "https://winylownia.pl/pl/products/kendrick-lamar-gnx-lp-blue-246448.html?gad_source=1&gad_campaignid=16862789932&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzkjjtFKvX8d05H88n64E73tMt3EU1SvRf5Xk0aqF8LBCaEoQydnVmhoCjVAQAvD_BwE", 
 			"photo": "images/gnx-kendricklamar.jpg",
-			"chance": 5
+			"chance": 1
 		},
 		{
 			"name": "Flower Boy",
 			"author": "Tyler, the Creator",
 			"description": "2xLP, black, 2017",
-			"link": "https://www.muziker.pl/tyler-the-creator-scum-fuck-flower-boy-gatefold-sleeve-2-lp",
+			"link": "https://winylownia.pl/pl/products/tyler-the-creator-flower-boy-2lp-65441.html?gad_source=1&gad_campaignid=16862789932&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzhu3Y_1TLbqSiMi8J5F8CktM0DDiokS6rNMA08GsZ25edruhgi5THBoCu6wQAvD_BwEp",
 			"photo": "images/flowerboy-tylerthecreator.jpg",
-			"chance": 7
+			"chance": 3
 		},
 		{
 			"name": "IGOR",
 			"author": "Tyler, the Creator",
 			"description": "LP, black, 2019",
-			"link": "https://www.muziker.pl/tyler-the-creator-igor",
+			"link": "https://winylownia.pl/pl/products/tyler-the-creator-igor-lp-65442.html?gad_source=1&gad_campaignid=16862789932&gclid=CjwKCAjwl_XBBhAUEiwAWK2hztPfF85nnDp9mTL4J9K83l89aJQ396mfsRj4KKr740G12gvjyxvzmBoCOK4QAvD_BwE",
 			"photo": "images/igor-tylerthecreator.jpg",
-			"chance": 7
+			"chance": 5
 		},
 		{
 			"name": "Call Me If You Get Lost: The Estate Sale",
 			"author": "Tyler, the Creator",
 			"description": "3xLP, blue, 2023",
-			"link": "https://www.muziker.pl/tyler-the-creator-call-me-if-you-get-lost-the-estate-sale-limited-edition-blue-coloured-3-lp",
+			"link": "https://winylownia.pl/pl/products/tyler-the-creator-call-me-if-you-get-lost-3lp-blue-226294.html?gad_source=1&gad_campaignid=16862789932&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzttGGQE3g7xq4egcHUlvwstLxNHtjAf4xdSYOx2LW-G0T3I6N460_hoCnbgQAvD_BwE",
 			"photo": "images/callmeifyougetlosttheestatesale-tylerthecreator.jpg",
-			"chance": 10
+			"chance": 8
 		},
 		{
 			"name": "Born Sinner",
 			"author": "J. Cole",
 			"description": "2xLP, gold, 10-th anniversary edition, 2013",
-			"link": "https://interscope.com/products/born-sinner-deluxe-opaque-gold-vinyl-10-year-anniversary?srsltid=AfmBOoqbNd9-9cBYgM_QtSaJCLVPZ8BS_hgDzBRDUywPHJEahZfNYJzV",
+			"link": "https://interscope.com/products/born-sinner-deluxe-opaque-gold-vinyl-10-year-anniversary",
 			"photo": "images/bornsinner-jcole.jpg",
-			"chance": 7
+			"chance": 8
 		},
 		{
 			"name": "2014 Forest Hills Drive",
 			"author": "J. Cole",
 			"description": "2xLP, blue, 10-th anniversary edition, 2014",
-			"link": "https://interscope.com/products/2014-forest-hills-drive-vinyl-10-year-anniversary-edition?srsltid=AfmBOoob2nb7jdo9tDc69a2l7c3ofPTkeeemWdbarpv03i-CuIDVxvty",
+			"link": "https://interscope.com/products/2014-forest-hills-drive-vinyl-10-year-anniversary-edition",
 			"photo": "images/2014foresthillsdrive-jcole.jpg",
 			"chance": 10
 		},
@@ -140,15 +140,15 @@
 			"name": "4 Your Eyez Only",
 			"author": "J. Cole",
 			"description": "2xLP, black, 2016",
-			"link": "https://www.muziker.pl/j-cole-4-your-eyez-only-lp",
+			"link": "https://www.muziker.pl/j-cole-4-your-eyez-only-lpp",
 			"photo": "images/4youreyezonly-jcole.jpg",
-			"chance": 7
+			"chance": 5
 		},
 		{
 			"name": "KOD",
 			"author": "J. Cole",
 			"description": "LP, black, 2018",
-			"link": "https://interscope.com/products/j-cole-kod-vinyl",
+			"link": "https://www.muziker.pl/j-cole-kod-reissue-lp",
 			"photo": "images/kod-jcole.jpg",
 			"chance": 1
 		},
@@ -156,9 +156,9 @@
 			"name": "The Off-Season",
 			"author": "J. Cole",
 			"description": "LP, black, 2021",
-			"link": "https://www.empik.com/the-off-season-j-cole,p1357134374,muzyka-p",
+			"link": "https://www.muziker.pl/j-cole-off-season-lp",
 			"photo": "images/theoffseason-jcole.jpg",
-			"chance": 3
+			"chance": 1
 		},
 		{
 			"name": "The Forever Story",
@@ -174,21 +174,21 @@
 			"description": "LP, black, 2018",
 			"link": "https://www.muziker.pl/j-i-d-dicaprio-2-lp",
 			"photo": "images/dicaprio2-jid.jpg",
-			"chance": 3
+			"chance": 1
 		},
 		{
 			"name": "The Never Story",
 			"author": "JID",
 			"description": "LP, black, 2017",
-			"link": "https://interscope.com/products/jid-the-never-story-lp?_pos=1&_sid=673f15748&_ss=r",
+			"link": "https://www.muziker.pl/j-i-d-never-story-lp",
 			"photo": "images/theneverstory-jid.jpg",
-			"chance": 3
+			"chance": 1
 		},
 		{
 			"name": "The College Dropout",
 			"author": "Kanye West",
 			"description": "2xLP, black, 2004",
-			"link": "https://winylownia.pl/pl/products/kanye-west-the-college-dropout-2lp-94997.html?query_id=21",
+			"link": "https://winylownia.pl/pl/products/kanye-west-the-college-dropout-2lp-94997.html",
 			"photo": "images/thecollegedropout-kanyewest.jpg",
 			"chance": 5
 		},
@@ -196,41 +196,33 @@
 			"name": "Late Registration",
 			"author": "Kanye West",
 			"description": "2xLP, black, 2005",
-			"link": "https://winylownia.pl/pl/products/kanye-west-late-registration-2lp-94999.html?query_id=21",
+			"link": "https://winylownia.pl/en/products/kanye-west-late-registration-2lp-94999.html",
 			"photo": "images/lateregistration-kanyewest.jpg",
-			"chance": 5
+			"chance": 1
 		},
 		{
 			"name": "My Beautiful Dark Twisted Fantasy",
 			"author": "Kanye West",
 			"description": "3xLP, black, 2010",
-			"link": "https://winylownia.pl/pl/products/kanye-west-my-beautiful-dark-twisted-fantasy-3lp-65589.html?query_id=21",
+			"link": "https://www.muziker.pl/kanye-west-my-beautiful-dark-twisted-fantasy-explicit-3-lp",
 			"photo": "images/mybeautifuldarktwistedfantasy-kanyewest.jpg",
-			"chance": 7
+			"chance": 3
 		},
 		{
 			"name": "KIDS SEE GHOSTS",
 			"author": "Kanye West, Kid Cudi",
 			"description": "LP, black, 2018",
-			"link": "https://www.muziker.pl/kids-see-ghosts-kids-see-ghosts-vinyl-lp",
+			"link": "https://winylownia.pl/pl/products/kids-see-ghosts-kanye-west-kid-cudi-kids-see-ghosts-lp-65587.html",
 			"photo": "images/kidsseeghosts-kanyewestkidcudi.jpg",
-			"chance": 3
-		},
-		{
-			"name": "Blonde",
-			"author": "Frank Ocean",
-			"description": "2xLP, black, 2016",
-			"link": "https://blonded.co",
-			"photo": "images/blonde-frankocean.jpg",
-			"chance": 10
+			"chance": 1
 		},
 		{
 			"name": "2000",
 			"author": "Joey Bada$$",
 			"description": "2xLP, black, 2022",
-			"link": "https://www.muziker.pl/joey-bada-2000-2-lp",
+			"link": "https://winylownia.pl/en/products/joey-bada-2000-2lp-221771.html",
 			"photo": "images/2000-joeybadass.jpg",
-			"chance": 7
+			"chance": 8
 		}
 	],
 
@@ -240,6 +232,12 @@
 			"author": "Kendrick Lamar",
 			"description": "nigdy nie wydane na winylu, CD już nie wydawane",
 			"photo": "images/section80-kendricklamar.jpg"
+		},
+		{
+			"name": "Blonde",
+			"author": "Frank Ocean",
+			"description": "wyprzedane",
+			"photo": "images/blonde-frankocean.jpg",
 		},
 		{
 			"name": "Chromakopia",
