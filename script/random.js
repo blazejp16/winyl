@@ -30,12 +30,9 @@ button.addEventListener("click", () => {
 		const artist = document.createElement("h3");
 		artist.textContent = item.author;
 
-		const details = document.createElement("p");
-		details.innerHTML = item.description;
-
 		const desc = document.createElement("div");
 		desc.className = "card-desc";
-		desc.append(title, artist, details);
+		desc.append(title, artist);
 
 		const image = document.createElement("img");
 		image.src = item.photo;

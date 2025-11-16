@@ -20,10 +20,6 @@ document.addEventListener("DOMContentLoaded", () => {
 		collection = data.collection;
 		collection.forEach(item => {
 			const {name, author, description, date, photo} = item;
-			if (!name || !author || !description || !date || !photo) {
-				console.warn("Pominięto niepoprawny obiekt: ", item);
-				return;
-			}
 
 			const title = document.createElement("h2");
 			title.textContent = name;

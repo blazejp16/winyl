@@ -5,55 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
 		return response.json();
 	})
 	.then(data => {
-		const favouritesContainer = document.getElementById("favourites-box");
-
-		if (!data.favourites) {
-			favouritesContainer.textContent = "Nieprawidłowy format pliku: brak pola 'favourites' jako tablicy.";
-			return;
-		}
-
-		if (data.favourites.length === 0) {
-			favouritesContainer.textContent = "Pusta lista.";
-			return;
-		}
-
-		favourites = data.favourites;
-		shuffle(favourites);
-		favourites.forEach(item => {
-			const {name, author, description, link, photo} = item;
-			if (!name || !author || !description || !link || !photo) {
-				console.warn("Pominięto niepoprawny obiekt: ", item);
-				return;
-			}
-
-			const title = document.createElement("h2");
-			title.textContent = name;
-
-			const artist = document.createElement("h3");
-			artist.textContent = author;
-
-			const details = document.createElement("p");
-			details.innerHTML = description;
-
-			const desc = document.createElement("div");
-			desc.className = "card-desc";
-			desc.append(title, artist, details);
-			
-			const image = document.createElement("img");
-			image.src = photo;
-			image.alt = name + " - " + author;
-
-			const imgLink = document.createElement("a");
-			imgLink.href = link;
-			imgLink.append(image);
-
-			const card = document.createElement("div");
-			card.className = "card";
-			card.append(imgLink, desc);
-
-			favouritesContainer.append(card);
-		});
-
 		const wishlistContainer = document.getElementById("wishlist-box");
 
 		if (!data.wishlist) {
@@ -67,13 +18,9 @@ document.addEventListener("DOMContentLoaded", () => {
 		}
 
 		wishlist = data.wishlist;
-		shuffle(wishlist);
+		// shuffle(wishlist);
 		wishlist.forEach(item => {
-			const {name, author, description, link, photo} = item;
-			if (!name || !author || !description || !link || !photo) {
-				console.warn("Pominięto niepoprawny obiekt: ", item);
-				return;
-			}
+			const {name, author, photo, chance, versions} = item;
 
 			const title = document.createElement("h2");
 			title.textContent = name;
@@ -81,19 +28,15 @@ document.addEventListener("DOMContentLoaded", () => {
 			const artist = document.createElement("h3");
 			artist.textContent = author;
 
-			const details = document.createElement("p");
-			details.innerHTML = description;
-
 			const desc = document.createElement("div");
 			desc.className = "card-desc";
-			desc.append(title, artist, details);
+			desc.append(title, artist);
 			
 			const image = document.createElement("img");
 			image.src = photo;
 			image.alt = name + " - " + author;
 
 			const imgLink = document.createElement("a");
-			imgLink.href = link;
 			imgLink.append(image);
 
 			const card = document.createElement("div");
@@ -118,11 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		unavailable = data.unavailable;
 		shuffle(unavailable);
 		unavailable.forEach(item => {
-			const {name, author, description, photo} = item;
-			if (!name || !author || !description || !photo) {
-				console.warn("Pominięto niepoprawny obiekt: ", item);
-				return;
-			}
+			const {name, author, photo} = item;
 
 			const title = document.createElement("h2");
 			title.textContent = name;
@@ -130,12 +69,9 @@ document.addEventListener("DOMContentLoaded", () => {
 			const artist = document.createElement("h3");
 			artist.textContent = author;
 
-			const details = document.createElement("p");
-			details.innerHTML = description;
-
 			const desc = document.createElement("div");
 			desc.className = "card-desc";
-			desc.append(title, artist, details);
+			desc.append(title, artist);
 			
 			const image = document.createElement("img");
 			image.src = photo;

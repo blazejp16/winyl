@@ -3,291 +3,663 @@
 		{
 			"name": "Trench",
 			"author": "twenty one pilots",
-			"description": "2xLP, black, 2018",
+			"description": "2xLP, black",
 			"date": "16-03-2025",
 			"photo": "images/trench-twentyonepilots.jpg"
 		},
 		{
 			"name": "Clancy",
 			"author": "twenty one pilots",
-			"description": "LP, black, 2024",
+			"description": "LP, black",
 			"date": "16-03-2025",
 			"photo": "images/clancy-twentyonepilots.jpg"
 		},
 		{
 			"name": "good kid, m.A.A.d. city (deluxe)",
 			"author": "Kendrick Lamar",
-			"description": "2xLP, black, 2012",
+			"description": "2xLP, black",
 			"date": "22-03-2025",
 			"photo": "images/goodkidmaadcity-kendricklamar.jpg"
-		}		
-	],
-
-	"favourites": [
+		},
 		{
-			"name": "Blurryface",
+			"name": "Scaled And Icy",
 			"author": "twenty one pilots",
-			"description": "2xLP, red, 2015, 10-th anniversary edition, w przedsprzedaży do 27.06.2025",
-			"link": "https://store.twentyonepilots.com/products/blurryface-10th-anniversary-vinyl-coffee-table-book",
-			"photo": "images/blurryface-twentyonepilots.jpg"
-		}, 
+			"description": "LP, black",
+			"date": "01-06-2025",
+			"photo": "images/scaledandicy-twentyonepilots.jpg"
+		},
+		{
+			"name": "DON'T TAP THE GLASS",
+			"author": "Tyler, the Creator",
+			"description": "LP, clear",
+			"date": "21-07-2025",
+			"photo": "images/donttaptheglass-tylerthecreator.jpg"
+		},
 		{
 			"name": "Breach",
 			"author": "twenty one pilots",
-			"description": "First pressing edition, w przedsprzedaży do 12.06.2025, wysyłane we wrześniu",
-			"link": "https://twentyonepilots.warnerartists.net/eu/breach-vinyl-%5Bfirst-pressing-edition%5D/0075678595363.html",
+			"description": "LP, red splatter",
+			"date": "12-09-2025",
 			"photo": "images/breach-twentyonepilots.jpg"
 		},
 		{
-			"name": "To Pimp A Butterfly",
-			"author": "Kendrick Lamar",
-			"description": "2xLP, black coloured, 2015, 10-th anniversary edition",
-			"link": "https://www.empik.com/to-pimp-a-butterfly-10th-anniversary-exclusive-lp-kendrick-lamar,p1595008233,muzyka-p",
-			"photo": "images/topimpabutterfly-kendricklamar.jpg"
+			"name": "Chromakopia",
+			"author": "Tyler, the Creator",
+			"description": "LP, white",
+			"date": "01.11.2025",
+			"photo": "images/chromakopia-tylerthecreator.jpg"
 		}
 	],
 
 	"wishlist": [
 		{
+			"name": "Blurryface",
+			"author": "twenty one pilots",
+			"photo": "images/blurryface-twentyonepilots.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/blurryface-plyta-winylowa-twenty-one-pilots,p1121057744,muzyka-p",
+					"muziker": "https://www.muziker.pl/twenty-one-pilots-blurryface-2-lp?_gl=1*rhvwva*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/twenty-one-pilots-blurryface-2lp-23353.html?query_id=1"
+				},
+				{
+					"desc": "2LP, red & black",
+					"empik": "https://www.empik.com/blurryface-red-black-vinyl-album-plyta-winylowa-twenty-one-pilots,p1662431096,muzyka-p",
+					"muziker": "https://www.muziker.pl/twenty-one-pilots-blurryface-red-black-coloured-2-lp?_gl=1*r312qa*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/twenty-one-pilots-blurryface-2lp-251840.html?query_id=1"
+				},
+				{
+					"desc": "2LP, silver",
+					"muziker": "https://www.muziker.pl/twenty-one-pilots-blurryface-silver-coloured-2-lp?_gl=1*s4yo8f*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
 			"name": "Vessel",
 			"author": "twenty one pilots",
-			"description": "LP, silver, 2013",
-			"link": "https://winylownia.pl/pl/products/twenty-one-pilots-vessel-lp-silver-vinyl-105806.html",
 			"photo": "images/vessel-twentyonepilots.jpg",
-			"chance": 3
-		},
-		{
-			"name": "Scaled And Icy",
-			"author": "twenty one pilots",
-			"description": "LP, light blue, 2021",
-			"link": "https://twentyonepilots.warnerartists.net/eu/twenty-one-pilots/music/scaled-and-icy-light-blue-vinyl/0075678641589.html",
-			"photo": "images/scaledandicy-twentyonepilots.jpg",
-			"chance": 3
-		},
-		{
-			"name": "Untitled Unmastered",
-			"author": "Kendrick Lamar",
-			"description": "LP, black, 2016",
-			"link": "https://winylownia.pl/pl/products/kendrick-lamar-untitled-unmastered-lp-14369.html?query_id=5",
-			"photo": "images/untitledunmastered-kendricklamar.jpg",
-			"chance": 3
-		},
-		{
-			"name": "DAMN.",
-			"author": "Kendrick Lamar",
-			"description": "2xLP, black, 2017",
-			"link": "https://winylownia.pl/pl/products/kendrick-lamar-damn-2lp-14370.html?query_id=2",
-			"photo": "images/damn-kendricklamar.jpg",
-			"chance": 7
-		},
-		{
-			"name": "Mr. Morale & The Big Steppers",
-			"author": "Kendrick Lamar",
-			"description": "2xLP, gold, 2022",
-			"link": "https://interscope.com/products/mr-morale-the-big-steppers-exclusive-vinyl?srsltid=AfmBOorm5neSaEK480DpqtFyNrbr1sK9pxPkrwlA0A_RtS5rGt7284NW",
-			"photo": "images/mrmoraleandthebigsteppers-kendricklamar.jpg",
-			"chance": 7
-		},
-		{
-			"name": "GNX",
-			"author": "Kendrick Lamar",
-			"description": "LP, blue, 2024",
-			"link": "https://winylownia.pl/pl/products/kendrick-lamar-gnx-lp-blue-246448.html?query_id=6", 
-			"photo": "images/gnx-kendricklamar.jpg",
-			"chance": 5
-		},
-		{
-			"name": "Flower Boy",
-			"author": "Tyler, the Creator",
-			"description": "2xLP, black, 2017",
-			"link": "https://www.muziker.pl/tyler-the-creator-scum-fuck-flower-boy-gatefold-sleeve-2-lp",
-			"photo": "images/flowerboy-tylerthecreator.jpg",
-			"chance": 7
-		},
-		{
-			"name": "IGOR",
-			"author": "Tyler, the Creator",
-			"description": "LP, black, 2019",
-			"link": "https://www.muziker.pl/tyler-the-creator-igor",
-			"photo": "images/igor-tylerthecreator.jpg",
-			"chance": 7
-		},
-		{
-			"name": "Call Me If You Get Lost: The Estate Sale",
-			"author": "Tyler, the Creator",
-			"description": "3xLP, blue, 2023",
-			"link": "https://www.muziker.pl/tyler-the-creator-call-me-if-you-get-lost-the-estate-sale-limited-edition-blue-coloured-3-lp",
-			"photo": "images/callmeifyougetlosttheestatesale-tylerthecreator.jpg",
-			"chance": 10
-		},
-		{
-			"name": "Born Sinner",
-			"author": "J. Cole",
-			"description": "2xLP, gold, 10-th anniversary edition, 2013",
-			"link": "https://interscope.com/products/born-sinner-deluxe-opaque-gold-vinyl-10-year-anniversary?srsltid=AfmBOoqbNd9-9cBYgM_QtSaJCLVPZ8BS_hgDzBRDUywPHJEahZfNYJzV",
-			"photo": "images/bornsinner-jcole.jpg",
-			"chance": 7
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/vessel-plyta-winylowa-twenty-one-pilots,p1225444237,muzyka-p"
+				},
+				{
+					"desc": "LP, clear",
+					"muziker": "https://www.muziker.pl/twenty-one-pilots-vessel-vinyl-lp?_gl=1*7e1s2y*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				},
+				{
+					"desc": "LP silver",
+					"muziker": "https://www.muziker.pl/twenty-one-pilots-vessel-silver-coloured-lp?_gl=1*7e1s2y*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
 		},
 		{
 			"name": "2014 Forest Hills Drive",
 			"author": "J. Cole",
-			"description": "2xLP, blue, 10-th anniversary edition, 2014",
-			"link": "https://interscope.com/products/2014-forest-hills-drive-vinyl-10-year-anniversary-edition?srsltid=AfmBOoob2nb7jdo9tDc69a2l7c3ofPTkeeemWdbarpv03i-CuIDVxvty",
 			"photo": "images/2014foresthillsdrive-jcole.jpg",
-			"chance": 10
-		},
-		{
-			"name": "4 Your Eyez Only",
-			"author": "J. Cole",
-			"description": "2xLP, black, 2016",
-			"link": "https://www.muziker.pl/j-cole-4-your-eyez-only-lp",
-			"photo": "images/4youreyezonly-jcole.jpg",
-			"chance": 7
-		},
-		{
-			"name": "KOD",
-			"author": "J. Cole",
-			"description": "LP, black, 2018",
-			"link": "https://interscope.com/products/j-cole-kod-vinyl",
-			"photo": "images/kod-jcole.jpg",
-			"chance": 1
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/2014-forest-hills-drive-plyta-winylowa-j-cole,p1381965441,muzyka-p",
+					"muziker": "https://www.muziker.pl/j-cole-2014-forest-hills-drive-2-lp?_gl=1*6l44rx*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				},
+				{
+					"desc": "10 Year Anniversary Edition, with bonus tracks, 2LP, blue marble",
+					"interscope": "https://interscope.com/collections/2014-forest-hills-drive/products/2014-forest-hills-drive-vinyl-10-year-anniversary-edition"
+				}
+			]
 		},
 		{
 			"name": "The Off-Season",
 			"author": "J. Cole",
-			"description": "LP, black, 2021",
-			"link": "https://www.empik.com/the-off-season-j-cole,p1357134374,muzyka-p",
 			"photo": "images/theoffseason-jcole.jpg",
-			"chance": 3
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/the-off-season-plyta-winylowa-j-cole,p1357134374,muzyka-p",
+					"muziker": "https://www.muziker.pl/j-cole-off-season-lp?_gl=1*dcjq21*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/j-cole-the-off-season-lp-279205.html?query_id=6"
+				}
+			]
 		},
 		{
-			"name": "The Forever Story",
-			"author": "JID",
-			"description": "2xLP, silver, 2022",
-			"link": "https://interscope.com/products/the-forever-story-limited-edition-silver-vinyl-2lp?_pos=2&_sid=673f15748&_ss=r",
-			"photo": "images/theforeverstory-jid.jpg",
-			"chance": 10
+			"name": "4 Your Eyez Only",
+			"author": "J. Cole",
+			"photo": "images/4youreyezonly-jcole.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/4-your-eyez-only-plyta-winylowa-j-cole,p1225992974,muzyka-p",
+					"muziker": "https://www.muziker.pl/j-cole-4-your-eyez-only-lp?_gl=1*gxj3se*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
 		},
 		{
-			"name": "Di Caprio 2",
-			"author": "JID",
-			"description": "LP, black, 2018",
-			"link": "https://www.muziker.pl/j-i-d-dicaprio-2-lp",
-			"photo": "images/dicaprio2-jid.jpg",
-			"chance": 3
-		},
-		{
-			"name": "The Never Story",
-			"author": "JID",
-			"description": "LP, black, 2017",
-			"link": "https://interscope.com/products/jid-the-never-story-lp?_pos=1&_sid=673f15748&_ss=r",
-			"photo": "images/theneverstory-jid.jpg",
-			"chance": 3
-		},
-		{
-			"name": "The College Dropout",
-			"author": "Kanye West",
-			"description": "2xLP, black, 2004",
-			"link": "https://winylownia.pl/pl/products/kanye-west-the-college-dropout-2lp-94997.html?query_id=21",
-			"photo": "images/thecollegedropout-kanyewest.jpg",
-			"chance": 5
-		},
-		{
-			"name": "Late Registration",
-			"author": "Kanye West",
-			"description": "2xLP, black, 2005",
-			"link": "https://winylownia.pl/pl/products/kanye-west-late-registration-2lp-94999.html?query_id=21",
-			"photo": "images/lateregistration-kanyewest.jpg",
-			"chance": 5
+			"name": "Born Sinner",
+			"author": "J. Cole",
+			"photo": "images/bornsinner-jcole.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/born-sinner-plyta-winylowa-j-cole,p1477376124,muzyka-p",
+					"muziker": "https://www.muziker.pl/j-cole-born-sinner-2-lp?_gl=1*l4g501*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				},
+				{
+					"desc": "deluxe edition with bonus tracks, 2LP, gold translucent",
+					"empik": "https://www.empik.com/2lp-j-cole-born-sinner-coloured-gold-translucent-vinyl-deluxe-limited-edition-clr-dlx-ltd-j-cole-unknown,p1660653205,muzyka-p"
+				}
+			]
 		},
 		{
 			"name": "My Beautiful Dark Twisted Fantasy",
 			"author": "Kanye West",
-			"description": "3xLP, black, 2010",
-			"link": "https://winylownia.pl/pl/products/kanye-west-my-beautiful-dark-twisted-fantasy-3lp-65589.html?query_id=21",
 			"photo": "images/mybeautifuldarktwistedfantasy-kanyewest.jpg",
-			"chance": 7
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "3LP, black",
+					"empik": "https://www.empik.com/my-beautiful-dark-twisted-fantasy-limited-edition-plyta-winylowa-west-kanye,p1274099682,muzyka-p"
+				}
+			]
+		},
+		{
+			"name": "DAMN.",
+			"author": "Kendrick Lamar",
+			"photo": "images/damn-kendricklamar.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/damn-plyta-winylowa-kendrick-lamar,p1144920537,muzyka-p",
+					"muziker": "https://www.muziker.pl/kendrick-lamar-damn-2-lp?_gl=1*rb6dnz*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-damn-2lp-14370.html?query_id=10"
+				}
+			]
+		},
+		{
+			"name": "To Pimp A Butterfly",
+			"author": "Kendrick Lamar",
+			"photo": "images/topimpabutterfly-kendricklamar.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/to-pimp-a-butterfly-plyta-winylowa-kendrick-lamar,p1184919768,muzyka-p",
+					"muziker": "https://www.muziker.pl/kendrick-lamar-to-pimp-a-butterfly-vinyl-lp?_gl=1*zphuqe*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-to-pimp-a-butterfly-2lp-14368.html?query_id=11"
+				},
+				{
+					"desc": "10 Year Anniversary, 2LP, metalic blend",
+					"empik": "https://www.empik.com/to-pimp-a-butterfly-10th-anniversary-exclusive-lp-plyta-winylowa-kendrick-lamar,p1595008233,muzyka-p",
+					"muziker": "https://www.muziker.pl/kendrick-lamar-to-pimp-a-butterfly-anniversary-edition-indie-exclusive-metallic-blends-coloured-ltd-2-lp?_gl=1*ux9fxk*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-to-pimp-a-butterfly-10th-anniversary-2lp-metallic-blends-249732.html?query_id=11"
+				}
+			]
+		},
+		{
+			"name": "Mr. Morale & The Big Steppers",
+			"author": "Kendrick Lamar",
+			"photo": "images/mrmoraleandthebigsteppers-kendricklamar.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/mr-morale-the-big-steppers-plyta-winylowa-kendrick-lamar,p1318072817,muzyka-p",
+					"muziker": "https://www.muziker.pl/kendrick-lamar-mr-morale-the-big-steppers-2-lp?_gl=1*so6co0*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				},
+				{
+					"desc": "2LP, gold",
+					"interscope": "https://interscope.com/products/mr-morale-the-big-steppers-exclusive-vinyl?srsltid=AfmBOoqxLK98FFQ_29JOPRXDfR85xgfclREdwx86hinzKzaecFH2wp_F"
+				}
+			]
+		},
+		{
+			"name": "The College Dropout",
+			"author": "Kanye West",
+			"photo": "images/thecollegedropout-kanyewest.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/college-dropout-plyta-winylowa-west-kanye,p1378050262,muzyka-p",
+					"muziker": "https://www.muziker.pl/kanye-west-college-dropout-2-lp?_gl=1*1clxp22*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/kanye-west-the-college-dropout-2lp-94997.html?query_id=14"
+				}
+			]
+		},
+		{
+			"name": "Late Registration",
+			"author": "Kanye West",
+			"photo": "images/lateregistration-kanyewest.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/late-registration-plyta-winylowa-west-kanye,p1378050402,muzyka-p",
+					"winylownia": "https://winylownia.pl/pl/products/kanye-west-late-registration-2lp-94999.html?query_id=15"
+				}
+			]
 		},
 		{
 			"name": "KIDS SEE GHOSTS",
-			"author": "Kanye West, Kid Cudi",
-			"description": "LP, black, 2018",
-			"link": "https://www.muziker.pl/kids-see-ghosts-kids-see-ghosts-vinyl-lp",
-			"photo": "images/kidsseeghosts-kanyewestkidcudi.jpg",
-			"chance": 3
+			"author": "KIDS SEE GHOSTS (Kanye West, Kid Cudi)",
+			"photo": "images/kidsseeghots-kidsseeghosts.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/kids-see-ghosts-plyta-winylowa-kids-see-ghosts,p1226001349,muzyka-p",
+					"muziker": "https://www.muziker.pl/kids-see-ghosts-kids-see-ghosts-vinyl-lp?_gl=1*ka5sgu*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/kids-see-ghosts-kanye-west-kid-cudi-kids-see-ghosts-lp-65587.html?query_id=16"
+				}
+			]
 		},
 		{
-			"name": "Blonde",
-			"author": "Frank Ocean",
-			"description": "2xLP, black, 2016",
-			"link": "https://blonded.co",
-			"photo": "images/blonde-frankocean.jpg",
-			"chance": 10
+			"name": "The Forever Story",
+			"author": "JID",
+			"photo": "images/theforeverstory-jid.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"muziker": "https://www.muziker.pl/j-i-d-the-forever-story-2-lp?_gl=1*18zzjvh*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				},
+				{
+					"desc": "2LP, silver",
+					"interscope": "https://interscope.com/collections/jid/products/the-forever-story-limited-edition-silver-vinyl-2lp"
+				}
+			]
+		},
+		{
+			"name": "Di Caprio 2",
+			"author": "JID",
+			"photo": "images/dicaprio2-jid.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"muziker": "https://www.muziker.pl/j-i-d-dicaprio-2-lp"
+				}
+			]
+		},
+		{
+			"name": "Vultures 1",
+			"author": "Kanye West, Ty Dolla $ign",
+			"photo": "images/vultures1-kanyewesttydollasign.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, white with gold splatter",
+					"empik": "https://www.empik.com/ys-ye-ty-dolla-ign-kanye-west-vultures-1-limited-splatter-plyta-winylowa-kanye-west-ty-dolla-sign,p1568040154,muzyka-p",
+					"winylownia": "https://winylownia.pl/pl/products/y-vultures1-2lp-coloured-245404.html?query_id=20"
+				},
+				{
+					"desc": "2LP, brown marble",
+					"muziker": "https://www.muziker.pl/ye-ty-dolla-sign-vultures-1-brown-marble-coloured-2-lp?_gl=1*glbujg*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "The Never Story",
+			"author": "JID",
+			"photo": "images/theneverstory-jid.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"muziker": "https://www.muziker.pl/j-i-d-never-story-lp?_gl=1*hk70rg*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "IGOR",
+			"author": "Tyler, the Creator",
+			"photo": "images/igor-tylerthecreator.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/igor-plyta-winylowa-tyler-the-creator,p1231502347,muzyka-p",
+					"muziker": "https://www.muziker.pl/tyler-the-creator-igor?_gl=1*dypqe3*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/tyler-the-creator-igor-lp-65442.html?query_id=21"
+				}
+			]
+		},
+		{
+			"name": "Flower Boy",
+			"author": "Tyler, the Creator",
+			"photo": "images/flowerboy-tylerthecreator.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/flower-boy-plyta-winylowa-tyler-the-creator,p1226426991,muzyka-p",
+					"muziker": "https://www.muziker.pl/tyler-the-creator-scum-fuck-flower-boy-gatefold-sleeve-2-lp?_gl=1*f5pequ*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/tyler-the-creator-flower-boy-2lp-65441.html?query_id=22"
+				}
+			]
+		},
+		{
+			"name": "Call Me If You Get Lost",
+			"author": "Tyler, the Creator",
+			"photo": "images/callmeifyougetlost-tylerthecreator.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/call-me-if-you-get-lost-plyta-winylowa-tyler-the-creator,p1305354836,muzyka-p",
+					"muziker": "https://www.muziker.pl/tyler-the-creator-call-me-if-you-get-lost-2-lp?_gl=1*7snbqd*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/tyler-the-creator-call-me-if-you-get-lost-2lp-154525.html?query_id=23"
+				},
+				{
+					"desc": "The Estate Sale - deluxe with bonus tracks, 3LP, blue",
+					"empik": "https://www.empik.com/call-me-if-you-get-lost-the-estate-sale-plyta-winylowa-tyler-the-creator,p1401671583,muzyka-p",
+					"muziker": "https://www.muziker.pl/tyler-the-creator-call-me-if-you-get-lost-the-estate-sale-limited-edition-blue-coloured-3-lp?_gl=1*7snbqd*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/tyler-the-creator-call-me-if-you-get-lost-3lp-blue-226294.html?query_id=23"
+				}
+			]
+		},
+		{
+			"name": "GNX",
+			"author": "Kendrick Lamar",
+			"photo": "images/gnx-kendricklamar.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/gnx-plyta-winylowa-kendrick-lamar,p1562109330,muzyka-p",
+					"muziker": "https://www.muziker.pl/kendrick-lamar-gnx-lp?_gl=1*1pcl9n*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-gnx-lp-245044.html?query_id=10"
+				},
+				{
+					"desc": "LP, blue",
+					"empik": "https://www.empik.com/kendrick-lamar-gnx-blue-lp-indie-exclusive-colored-vinyl-plyta-winylowa-kendrick-lamar,p1584516611,muzyka-p",
+					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-gnx-lp-blue-246448.html?query_id=10"
+				}
+			]
+		},
+		{
+			"name": "untitled unmastered.",
+			"author": "Kendrick Lamar",
+			"photo": "images/untitledunmastered-kendricklamar.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/untitled-unmastered-plyta-winylowa-kendrick-lamar,p1160767415,muzyka-p",
+					"muziker": "https://www.muziker.pl/kendrick-lamar-untitled-unmastered-vinyl-lp?_gl=1*2igf3z*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-untitled-unmastered-lp-14369.html?query_id=26"
+				}
+			]
 		},
 		{
 			"name": "2000",
 			"author": "Joey Bada$$",
-			"description": "2xLP, black, 2022",
-			"link": "https://www.muziker.pl/joey-bada-2000-2-lp",
 			"photo": "images/2000-joeybadass.jpg",
-			"chance": 7
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/2000-plyta-winylowa-bada-joey,p1373686114,muzyka-p",
+					"muziker": "https://www.muziker.pl/joey-bada-2000-2-lp?_gl=1*1q1t1fa*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/joey-bada-2000-2lp-221771.html?query_id=28"
+				}
+			]
+		},
+		{
+			"name": "Balloonerism",
+			"author": "Mac Miller",
+			"photo": "images/balloonerism-macmiller.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/balloonerism-plyta-winylowa-miller-mac,p1574233870,muzyka-p",
+					"muziker": "https://www.muziker.pl/mac-miller-balloonerism-2-lp?_gl=1*h28du7*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/mac-miller-balloonerism-2lp-245964.html?query_id=29"
+				},
+				{
+					"desc": "2LP, white",
+					"empik": "https://www.empik.com/balloonerism-plyta-winylowa-miller-mac,p1595221843,muzyka-p",
+					"muziker": "https://www.muziker.pl/mac-miller-balloonerism-white-coloured-2-lp?_gl=1*h28du7*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/mac-miller-balloonerism-2lp-white-245965.html?query_id=29"
+				},
+				{
+					"desc": "2LP, green",
+					"winylownia": "https://winylownia.pl/pl/products/mac-miller-balloonerism-2lp-251061.html?query_id=29"
+				}
+			]
+		},
+		{
+			"name": "LONG.LIVE.A$AP",
+			"author": "A$AP Rocky",
+			"photo": "images/longliveasap-asaprocky.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/long-live-a-ap-deluxe-edition-asap-rocky,p1267088402,muzyka-p"
+				}
+			]
+		},
+		{
+			"name": "AT.LONG.LAST.A$AP",
+			"author": "A$AP Rocky",
+			"photo": "images/atlonglastasap-asaprocky.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/at-long-last-a-ap-plyta-winylowa-asap-rocky,p1132343036,muzyka-p",
+					"muziker": "https://www.muziker.pl/asap-rocky-a-l-l-a-at-long-last-asap-2-lp?_gl=1*1c4q3jo*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Let God Sort Em Out",
+			"author": "Clipse (Pusha T, Malice)",
+			"photo": "images/letgodsortemout-clipse.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/clipse-let-god-sort-em-out-deluxe-i-the-clipse,p1686837287,muzyka-p",
+					"muziker": "https://www.muziker.pl/clipse-let-god-sort-em-out-indie-exclusive-deluxe-edition-gatefold-sleeve-lp?_gl=1*1b16155*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Alfredo 2",
+			"author": "Freddie Gibbs, The Alchemist",
+			"photo": "images/alfredo2-freddiegibbsthealchemist.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/alfredo-2-gibbs-freddie-the-alchemist,p1660260430,muzyka-p"
+				}
+			]
+		},
+		{
+			"name": "God Does Like Ugly",
+			"author": "JID",
+			"photo": "images/goddoeslikeugly-jid.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, gold",
+					"empik": "https://www.empik.com/god-does-like-ugly-plyta-winylowa-jid,p1670531841,muzyka-p",
+					"muziker": "https://www.muziker.pl/j-i-d-god-does-like-ugly-gold-coloured-2-lp?_gl=1*mky3su*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				},
+				{
+					"desc": "2LP, clear/black ice",
+					"muziker": "https://www.muziker.pl/j-i-d-god-does-like-ugly-indie-exclusive-limited-edition-clear-black-ice-coloured-2-lp?_gl=1*1gw4fpc*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Free",
+			"author": "Kid Cudi",
+			"photo": "images/free-kidcudi.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"muziker": "https://www.muziker.pl/kid-cudi-free-2-lp?_gl=1*u8hy9g*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				},
+				{
+					"desc": "2LP, blue",
+					"muziker": "https://www.muziker.pl/kid-cudi-free-indie-exclusive-limited-edition-blue-coloured-2-lp?_gl=1*u8hy9g*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Man On The Moon: The End Of The Day",
+			"author": "Kid Cudi",
+			"photo": "images/manonthemoontheendoftheday-kidcudi.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/man-on-the-moon-end-of-the-day-plyta-winylowa-kid-cudi,p1484506884,muzyka-p",
+					"muziker": "https://www.muziker.pl/kid-cudi-man-on-the-moon-end-of-the-day-2-lp?_gl=1*svbt6x*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Get Rich Or Die Trying",
+			"author": "50 Cent",
+			"photo": "images/getrichordietrying-50cent.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/get-rich-or-die-tryin-limited-edition-plyta-winylowa-50-cent,p1107262720,muzyka-p",
+					"muziker": "https://www.muziker.pl/50-cent-get-rich-or-die-tryin-180-g-2-lp?_gl=1*147l9xa*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/50-cent-get-rich-or-die-tryin-ltd-2lp-232026.html?query_id=40"
+				},
+				{
+					"desc": "2LP, red",
+					"empik": "https://www.empik.com/get-rich-or-die-tryin-plyta-winylowa-50-cent,p1627678474,muzyka-p"
+				}
+			]
+		},
+		{
+			"name": "Because The Internet",
+			"author": "Childish Gambino",
+			"photo": "images/becausetheinternet-childishgambino.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/because-the-internet-plyta-winylowa-childish-gambino,p1261327558,muzyka-p"
+				}
+			]
+		},
+		{
+			"name": "Awaken, My Love",
+			"author": "Childish Gambino",
+			"photo": "images/awakenmylove-childishgambino.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/awaken-my-love-plyta-winylowa-childish-gambino,p1220033285,muzyka-p",
+					"muziker": "https://www.muziker.pl/childish-gambino-awaken-my-love-lp?_gl=1*jcsl6f*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Man On The Moon II: The Legend Of Mr. Rager",
+			"author": "Kid Cudi",
+			"photo": "images/manonthemooniithelegendofmrrager-kidcudi.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/kid-cudi-man-on-the-moon-ii-legend-of-mr-rager-plyta-winylowa-kid-cudi,p1297142318,muzyka-p",
+					"muziker": "https://www.muziker.pl/kid-cudi-man-on-the-moon-ii-legend-of-mr-rager-2-lp?_gl=1*1cjmf5g*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Mama's Gun",
+			"author": "Erykah Badu",
+			"photo": "images/mamasgun-erykahbadu.jpg",
+			"chance": 1,
+			"versions": [
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/mama-s-gun-plyta-winylowa-badu-erykah,p1133377766,muzyka-p",
+					"muziker": "https://www.muziker.pl/erykah-badu-mamas-gun-reissue-180g-2-lp?_gl=1*l4rpl9*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/erykah-badu-mamas-gun-2lp-4922.html?query_id=44"
+				}
+			]
 		}
 	],
 
 	"unavailable": [
 		{
-			"name": "Section.80",
-			"author": "Kendrick Lamar",
-			"description": "nigdy nie wydane na winylu, CD już nie wydawane",
-			"photo": "images/section80-kendricklamar.jpg"
-		},
-		{
-			"name": "Chromakopia",
-			"author": "Tyler, the Creator",
-			"description": "wydane na winylu tylko w limitowanej edycji, już niedostępnej, tak samo CD",
-			"photo": "images/chromakopia-tylerthecreator.jpg"
-		}, 
-		{
-			"name": "Friday Night Lights",
-			"author": "J. Cole",
-			"description": "nigdy nie wydane na winylu, CD już nie wydawane",
-			"photo": "images/fridaynightlights-jcole.jpg"
-		},
-		{
-			"name": "Might Delete Later",
-			"author": "J. Cole",
-			"description": "nigdy nie wydane na winylu ani jako CD",
-			"photo": "images/mightdeletelater-jcole.jpg"
-		},
-		{
 			"name": "Graduation",
 			"author": "Kanye West",
-			"description": "nigdy nie wydane na winylu, dostępne CD",
 			"photo": "images/graduation-kanyewest.jpg"
 		},
 		{
-			"name": "channel ORANGE",
+			"name": "The Life Of Pablo",
+			"author": "Kanye West",
+			"photo": "images/thelifeofpablo-kanyewest.jpg"
+		},
+		{
+			"name": "Section.80",
+			"author": "Kendrick Lamar",
+			"photo": "images/section80-kendricklamar.jpg"
+		},
+		{
+			"name": "Might Delete Laater",
+			"author": "J. Cole",
+			"photo": "images/mightdeletelater-jcole.jpg"
+		},
+		{
+			"name": "Blonde",
 			"author": "Frank Ocean",
-			"description": "nigdy nie wydane na winylu, dostępne CD",
+			"photo": "images/blonde-frankocean.jpg"
+		},
+		{
+			"name": "channel.ORANGE",
+			"author": "Frank Ocean",
 			"photo": "images/channelorange-frankocean.jpg"
+		},
+		{
+			"name": "Friday Night Lights",
+			"author": "J. Cole",
+			"photo": "images/fridaynightlights-jcole.jpg"
 		},
 		{
 			"name": "1999",
 			"author": "Joey Bada$$",
-			"description": "już nie wydawane na winylu ani CD",
 			"photo": "images/1999-joeybadass.jpg"
-		},
-		{
-			"name": "B4.DA.$$",
-			"author": "Joey Bada$$",
-			"description": "już nie wydawane na winylu ani CD",
-			"photo": "images/b4dass-joeybadass.jpg"
 		},
 		{
 			"name": "All-Amerikkkan Bada$$",
 			"author": "Joey Bada$$",
-			"description": "już nie wydawane na winylu ani CD",
 			"photo": "images/allamerikkkanbadass-joeybadass.jpg"
+		},
+		{
+			"name": "LIVE.LOVE.A$AP",
+			"author": "A$AP Rocky",
+			"photo": "images/liveloveasap-asaprocky.jpg"
+		},
+		{
+			"name": "Lonely At The top",
+			"author": "Joey Bada$$",
+			"photo": "images/lonelyatthetop-joeybadass.jpg"
 		}
 	]
 }
