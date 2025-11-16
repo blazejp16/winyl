@@ -56,7 +56,7 @@
 			"name": "Blurryface",
 			"author": "twenty one pilots",
 			"photo": "images/blurryface-twentyonepilots.jpg",
-			"chance": 1,
+			"chance": 5,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -80,7 +80,7 @@
 			"name": "Vessel",
 			"author": "twenty one pilots",
 			"photo": "images/vessel-twentyonepilots.jpg",
-			"chance": 1,
+			"chance": 6,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -100,7 +100,7 @@
 			"name": "2014 Forest Hills Drive",
 			"author": "J. Cole",
 			"photo": "images/2014foresthillsdrive-jcole.jpg",
-			"chance": 1,
+			"chance": 10,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -117,7 +117,7 @@
 			"name": "The Off-Season",
 			"author": "J. Cole",
 			"photo": "images/theoffseason-jcole.jpg",
-			"chance": 1,
+			"chance": 4,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -131,7 +131,7 @@
 			"name": "4 Your Eyez Only",
 			"author": "J. Cole",
 			"photo": "images/4youreyezonly-jcole.jpg",
-			"chance": 1,
+			"chance": 8,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -144,7 +144,7 @@
 			"name": "Born Sinner",
 			"author": "J. Cole",
 			"photo": "images/bornsinner-jcole.jpg",
-			"chance": 1,
+			"chance": 5,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -161,7 +161,7 @@
 			"name": "My Beautiful Dark Twisted Fantasy",
 			"author": "Kanye West",
 			"photo": "images/mybeautifuldarktwistedfantasy-kanyewest.jpg",
-			"chance": 1,
+			"chance": 5,
 			"versions": [
 				{
 					"desc": "3LP, black",
@@ -173,7 +173,7 @@
 			"name": "DAMN.",
 			"author": "Kendrick Lamar",
 			"photo": "images/damn-kendricklamar.jpg",
-			"chance": 1,
+			"chance": 7,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -187,7 +187,7 @@
 			"name": "To Pimp A Butterfly",
 			"author": "Kendrick Lamar",
 			"photo": "images/topimpabutterfly-kendricklamar.jpg",
-			"chance": 1,
+			"chance": 10,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -207,7 +207,7 @@
 			"name": "Mr. Morale & The Big Steppers",
 			"author": "Kendrick Lamar",
 			"photo": "images/mrmoraleandthebigsteppers-kendricklamar.jpg",
-			"chance": 1,
+			"chance": 6,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -224,7 +224,7 @@
 			"name": "The College Dropout",
 			"author": "Kanye West",
 			"photo": "images/thecollegedropout-kanyewest.jpg",
-			"chance": 1,
+			"chance": 5,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -238,7 +238,7 @@
 			"name": "Late Registration",
 			"author": "Kanye West",
 			"photo": "images/lateregistration-kanyewest.jpg",
-			"chance": 1,
+			"chance": 3,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -251,7 +251,7 @@
 			"name": "KIDS SEE GHOSTS",
 			"author": "KIDS SEE GHOSTS (Kanye West, Kid Cudi)",
 			"photo": "images/kidsseeghots-kidsseeghosts.jpg",
-			"chance": 1,
+			"chance": 2,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -265,7 +265,7 @@
 			"name": "The Forever Story",
 			"author": "JID",
 			"photo": "images/theforeverstory-jid.jpg",
-			"chance": 1,
+			"chance": 10,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -281,7 +281,7 @@
 			"name": "Di Caprio 2",
 			"author": "JID",
 			"photo": "images/dicaprio2-jid.jpg",
-			"chance": 1,
+			"chance": 3,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -293,7 +293,7 @@
 			"name": "Vultures 1",
 			"author": "Kanye West, Ty Dolla $ign",
 			"photo": "images/vultures1-kanyewesttydollasign.jpg",
-			"chance": 1,
+			"chance": 4,
 			"versions": [
 				{
 					"desc": "2LP, white with gold splatter",
@@ -322,7 +322,7 @@
 			"name": "IGOR",
 			"author": "Tyler, the Creator",
 			"photo": "images/igor-tylerthecreator.jpg",
-			"chance": 1,
+			"chance": 9,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -336,7 +336,7 @@
 			"name": "Flower Boy",
 			"author": "Tyler, the Creator",
 			"photo": "images/flowerboy-tylerthecreator.jpg",
-			"chance": 1,
+			"chance": 6,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -350,7 +350,7 @@
 			"name": "Call Me If You Get Lost",
 			"author": "Tyler, the Creator",
 			"photo": "images/callmeifyougetlost-tylerthecreator.jpg",
-			"chance": 1,
+			"chance": 7,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -370,7 +370,7 @@
 			"name": "GNX",
 			"author": "Kendrick Lamar",
 			"photo": "images/gnx-kendricklamar.jpg",
-			"chance": 1,
+			"chance": 6,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -403,7 +403,7 @@
 			"name": "2000",
 			"author": "Joey Bada$$",
 			"photo": "images/2000-joeybadass.jpg",
-			"chance": 1,
+			"chance": 7,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -417,7 +417,7 @@
 			"name": "Balloonerism",
 			"author": "Mac Miller",
 			"photo": "images/balloonerism-macmiller.jpg",
-			"chance": 1,
+			"chance": 9,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -441,7 +441,7 @@
 			"name": "LONG.LIVE.A$AP",
 			"author": "A$AP Rocky",
 			"photo": "images/longliveasap-asaprocky.jpg",
-			"chance": 1,
+			"chance": 6,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -453,7 +453,7 @@
 			"name": "AT.LONG.LAST.A$AP",
 			"author": "A$AP Rocky",
 			"photo": "images/atlonglastasap-asaprocky.jpg",
-			"chance": 1,
+			"chance": 6,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -466,7 +466,7 @@
 			"name": "Let God Sort Em Out",
 			"author": "Clipse (Pusha T, Malice)",
 			"photo": "images/letgodsortemout-clipse.jpg",
-			"chance": 1,
+			"chance": 10,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -479,7 +479,7 @@
 			"name": "Alfredo 2",
 			"author": "Freddie Gibbs, The Alchemist",
 			"photo": "images/alfredo2-freddiegibbsthealchemist.jpg",
-			"chance": 1,
+			"chance": 9,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -491,7 +491,7 @@
 			"name": "God Does Like Ugly",
 			"author": "JID",
 			"photo": "images/goddoeslikeugly-jid.jpg",
-			"chance": 1,
+			"chance": 8,
 			"versions": [
 				{
 					"desc": "2LP, gold",
@@ -508,7 +508,7 @@
 			"name": "Free",
 			"author": "Kid Cudi",
 			"photo": "images/free-kidcudi.jpg",
-			"chance": 1,
+			"chance": 3,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -524,7 +524,7 @@
 			"name": "Man On The Moon: The End Of The Day",
 			"author": "Kid Cudi",
 			"photo": "images/manonthemoontheendoftheday-kidcudi.jpg",
-			"chance": 1,
+			"chance": 6,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -537,7 +537,7 @@
 			"name": "Get Rich Or Die Trying",
 			"author": "50 Cent",
 			"photo": "images/getrichordietrying-50cent.jpg",
-			"chance": 1,
+			"chance": 7,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -555,7 +555,7 @@
 			"name": "Because The Internet",
 			"author": "Childish Gambino",
 			"photo": "images/becausetheinternet-childishgambino.jpg",
-			"chance": 1,
+			"chance": 8,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -567,7 +567,7 @@
 			"name": "Awaken, My Love",
 			"author": "Childish Gambino",
 			"photo": "images/awakenmylove-childishgambino.jpg",
-			"chance": 1,
+			"chance": 7,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -580,7 +580,7 @@
 			"name": "Man On The Moon II: The Legend Of Mr. Rager",
 			"author": "Kid Cudi",
 			"photo": "images/manonthemooniithelegendofmrrager-kidcudi.jpg",
-			"chance": 1,
+			"chance": 9,
 			"versions": [
 				{
 					"desc": "2LP, black",
@@ -593,7 +593,7 @@
 			"name": "Mama's Gun",
 			"author": "Erykah Badu",
 			"photo": "images/mamasgun-erykahbadu.jpg",
-			"chance": 1,
+			"chance": 8,
 			"versions": [
 				{
 					"desc": "2LP, black",

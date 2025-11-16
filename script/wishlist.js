@@ -18,7 +18,10 @@ document.addEventListener("DOMContentLoaded", () => {
 		}
 
 		wishlist = data.wishlist;
-		// shuffle(wishlist);
+		wishlist.sort((a, b) => {
+			if (a.chance === b.chance) return Math.random() - 0.5;
+			return b.chance - a.chance;
+		});
 		wishlist.forEach(item => {
 			const {name, author, photo, versions} = item;
 
