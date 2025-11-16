@@ -602,6 +602,19 @@
 					"winylownia": "https://winylownia.pl/pl/products/erykah-badu-mamas-gun-2lp-4922.html?query_id=44"
 				}
 			]
+		},
+		{
+			"name": "Bandana",
+			"author": "Freddie Gibbs, Madlib",
+			"photo": "images/bandana-freddiegibbsmadlib.jpg",
+			"chance": 6,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/bandana-plyta-winylowa-freddie-gibbs-and-madlib,p1362788036,muzyka-p#ReviewsBox",
+					"muziker": "https://www.muziker.pl/freddie-gibbs-bandana-vinyl-lp?_gl=1*fqlzha*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
 		}
 	],
 
