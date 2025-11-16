@@ -41,7 +41,10 @@
 			"description": "LP, red splatter",
 			"date": "12-09-2025",
 			"photo": "images/breach-twentyonepilots.jpg"
-		},
+		}
+	],
+
+	"wishlist": [
 		{
 			"name": "Chromakopia",
 			"author": "Tyler, the Creator",
