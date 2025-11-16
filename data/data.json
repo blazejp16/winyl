@@ -41,10 +41,7 @@
 			"description": "LP, red splatter",
 			"date": "12-09-2025",
 			"photo": "images/breach-twentyonepilots.jpg"
-		}
-	],
-
-	"wishlist": [
+		},
 		{
 			"name": "Chromakopia",
 			"author": "Tyler, the Creator",
@@ -625,7 +622,7 @@
 			"photo": "images/section80-kendricklamar.jpg"
 		},
 		{
-			"name": "Might Delete Laater",
+			"name": "Might Delete Later",
 			"author": "J. Cole",
 			"photo": "images/mightdeletelater-jcole.jpg"
 		},
