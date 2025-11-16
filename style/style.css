@@ -65,7 +65,7 @@ h1 {
 	font-size: 30px;
 }
 
-.collection-box, .favourites-box, .wishlist-box, .unavailable-box, .random-box {
+.collection-box, .wishlist-box, .unavailable-box, .random-box {
 	width: 90%;
 
 	display: grid;
@@ -120,13 +120,13 @@ button:hover {
 		gap: 30px;
 	}
 
-	.collection-box, .favourites-box, .wishlist-box, .unavailable-box, .random-box {
+	.collection-box, .wishlist-box, .unavailable-box, .random-box {
 		grid-template-columns: repeat(2, 1fr);
 	}
 }
 
 @media (min-width: 1200px) {
-	.collection-box, .favourites-box, .wishlist-box, .unavailable-box, .random-box {
+	.collection-box, .wishlist-box, .unavailable-box, .random-box {
 		grid-template-columns: repeat(3, 1fr);
 	}
 }
