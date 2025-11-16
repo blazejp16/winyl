@@ -123,10 +123,18 @@ button:hover {
 	.collection-box, .wishlist-box, .unavailable-box, .random-box {
 		grid-template-columns: repeat(2, 1fr);
 	}
+
+	.random-box {
+		width: 60%;
+	}
 }
 
 @media (min-width: 1200px) {
 	.collection-box, .wishlist-box, .unavailable-box, .random-box {
 		grid-template-columns: repeat(3, 1fr);
+	}
+
+	.random-box {
+		width: 30%;
 	}
 }
