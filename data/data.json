@@ -607,12 +607,33 @@
 			"name": "Bandana",
 			"author": "Freddie Gibbs, Madlib",
 			"photo": "images/bandana-freddiegibbsmadlib.jpg",
-			"chance": 6,
+			"chance": 4,
 			"versions": [
 				{
 					"desc": "LP, black",
 					"empik": "https://www.empik.com/bandana-plyta-winylowa-freddie-gibbs-and-madlib,p1362788036,muzyka-p#ReviewsBox",
 					"muziker": "https://www.muziker.pl/freddie-gibbs-bandana-vinyl-lp?_gl=1*fqlzha*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Swimming",
+			"author": "Mac Miller",
+			"photo": "images/swimming-macmiller.jpg",
+			"chance": 7,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"empik": "https://www.empik.com/swimming-plyta-winylowa-miller-mac,p1217560284,muzyka-p",
+					"muziker": "https://www.muziker.pl/mac-miller-swimming-vinyl-lp"
+				},
+				{
+					"desc": "2LP, black",
+					"winylownia": "https://winylownia.pl/pl/products/mac-miller-swimming-2lp-16126.html?query_id=1"
+				},
+				{
+					"desc": "5 year anniversary, 2LP, milky translucent",
+					"muziker": "https://www.muziker.pl/mac-miller-swimming-reissue-anniversary-edition-milky-coloured-2-lp?_gl=1*zdpvs*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA_orJBhBNEiwABkdmjCHN7W55ZEK7-BBgt9bHJiOPG4KFHDrPLmeFuiPoE-ym_IM3u-1BZhoCa1EQAvD_BwE"
 				}
 			]
 		}
