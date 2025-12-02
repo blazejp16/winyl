@@ -620,7 +620,7 @@
 			"name": "Swimming",
 			"author": "Mac Miller",
 			"photo": "images/swimming-macmiller.jpg",
-			"chance": 7,
+			"chance": 8,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -634,6 +634,30 @@
 				{
 					"desc": "5 year anniversary, 2LP, milky translucent",
 					"muziker": "https://www.muziker.pl/mac-miller-swimming-reissue-anniversary-edition-milky-coloured-2-lp?_gl=1*zdpvs*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA_orJBhBNEiwABkdmjCHN7W55ZEK7-BBgt9bHJiOPG4KFHDrPLmeFuiPoE-ym_IM3u-1BZhoCa1EQAvD_BwE"
+				}
+			]
+		},
+		{
+			"name": "GO:OD AM",
+			"author": "Mac Miller",
+			"photo": "images/goodam-macmiller.jpg",
+			"chance": 6,
+			"versions": [
+				{
+					"desc": "2LP, green",
+					"empik": "https://www.empik.com/go-od-am-zielony-winyl-plyta-winylowa-miller-mac,p1418025816,muzyka-p",
+					"muziker": "https://www.muziker.pl/mac-miller-go-od-am-indie-exclusive-bright-green-coloured-2-lp?_gl=1*1pm2t7l*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAubrJBhCbARIsAHIdxD9GW6oloUGSAp5JacTcB4mL6kmVCaGVqaOh1dOZ_9WvlvclScpyagIaAqqvEALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/mac-miller-go-od-am-2lp-249733.html?query_id=3"
+				},
+				{
+					"desc": "10 Year Anniversary Edition, 3LP, clear, white, yellow",
+					"empik": "https://www.empik.com/go-od-am-10th-anniversary-plyta-winylowa-miller-mac,p1689619336,muzyka-p",
+					"muziker": "https://www.muziker.pl/mac-miller-go-od-am-indie-exclusive-anniversary-edition-clear-white-yellow-coloured-3-lp?_gl=1*2r4fg9*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAubrJBhCbARIsAHIdxD9GW6oloUGSAp5JacTcB4mL6kmVCaGVqaOh1dOZ_9WvlvclScpyagIaAqqvEALw_wcB"
+				},
+				{
+					"desc": "2LP, black",
+					"empik": "https://www.empik.com/go-od-am-plyta-winylowa-miller-mac,p1120339155,muzyka-p",
+					"muziker": "https://www.muziker.pl/mac-miller-go-od-am-2-lp?_gl=1*1pm2t7l*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAubrJBhCbARIsAHIdxD9GW6oloUGSAp5JacTcB4mL6kmVCaGVqaOh1dOZ_9WvlvclScpyagIaAqqvEALw_wcB"
 				}
 			]
 		}
