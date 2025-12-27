@@ -15,9 +15,9 @@
 			"photo": "images/clancy-twentyonepilots.jpg"
 		},
 		{
-			"name": "good kid, m.A.A.d. city (deluxe)",
+			"name": "good kid, m.A.A.d. city",
 			"author": "Kendrick Lamar",
-			"description": "2xLP, black",
+			"description": "deluxe, 2xLP, black",
 			"date": "22-03-2025",
 			"photo": "images/goodkidmaadcity-kendricklamar.jpg"
 		},
@@ -43,11 +43,11 @@
 			"photo": "images/breach-twentyonepilots.jpg"
 		},
 		{
-			"name": "Chromakopia",
-			"author": "Tyler, the Creator",
-			"description": "LP, white",
-			"date": "01.11.2025",
-			"photo": "images/chromakopia-tylerthecreator.jpg"
+			"name": "To Pimp A Butterfly",
+			"author": "Kendrick Lamar",
+			"description": "2xLP, black marble",
+			"date": "26.12.2025",
+			"photo": "images/topimpabutterfy-kendricklamar.jpg"
 		}
 	],
 
@@ -180,26 +180,6 @@
 					"empik": "https://www.empik.com/damn-plyta-winylowa-kendrick-lamar,p1144920537,muzyka-p",
 					"muziker": "https://www.muziker.pl/kendrick-lamar-damn-2-lp?_gl=1*rb6dnz*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
 					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-damn-2lp-14370.html?query_id=10"
-				}
-			]
-		},
-		{
-			"name": "To Pimp A Butterfly",
-			"author": "Kendrick Lamar",
-			"photo": "images/topimpabutterfly-kendricklamar.jpg",
-			"chance": 10,
-			"versions": [
-				{
-					"desc": "2LP, black",
-					"empik": "https://www.empik.com/to-pimp-a-butterfly-plyta-winylowa-kendrick-lamar,p1184919768,muzyka-p",
-					"muziker": "https://www.muziker.pl/kendrick-lamar-to-pimp-a-butterfly-vinyl-lp?_gl=1*zphuqe*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
-					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-to-pimp-a-butterfly-2lp-14368.html?query_id=11"
-				},
-				{
-					"desc": "10 Year Anniversary, 2LP, metalic blend",
-					"empik": "https://www.empik.com/to-pimp-a-butterfly-10th-anniversary-exclusive-lp-plyta-winylowa-kendrick-lamar,p1595008233,muzyka-p",
-					"muziker": "https://www.muziker.pl/kendrick-lamar-to-pimp-a-butterfly-anniversary-edition-indie-exclusive-metallic-blends-coloured-ltd-2-lp?_gl=1*ux9fxk*_up*MQ..&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNJBR1Gmt1dVLI7niInqE35vWAKCmi-v_LZn5DDDnZRDRpQhIkiUlAcaAi-PEALw_wcB",
-					"winylownia": "https://winylownia.pl/pl/products/kendrick-lamar-to-pimp-a-butterfly-10th-anniversary-2lp-metallic-blends-249732.html?query_id=11"
 				}
 			]
 		},
@@ -607,7 +587,7 @@
 			"name": "Bandana",
 			"author": "Freddie Gibbs, Madlib",
 			"photo": "images/bandana-freddiegibbsmadlib.jpg",
-			"chance": 4,
+			"chance": 3,
 			"versions": [
 				{
 					"desc": "LP, black",
@@ -641,7 +621,7 @@
 			"name": "GO:OD AM",
 			"author": "Mac Miller",
 			"photo": "images/goodam-macmiller.jpg",
-			"chance": 6,
+			"chance": 5,
 			"versions": [
 				{
 					"desc": "2LP, green",
@@ -658,6 +638,39 @@
 					"empik": "https://www.empik.com/go-od-am-plyta-winylowa-miller-mac,p1120339155,muzyka-p",
 					"muziker": "https://www.muziker.pl/mac-miller-go-od-am-2-lp?_gl=1*1pm2t7l*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAubrJBhCbARIsAHIdxD9GW6oloUGSAp5JacTcB4mL6kmVCaGVqaOh1dOZ_9WvlvclScpyagIaAqqvEALw_wcB",
 					"winylownia": "https://winylownia.pl/pl/products/mac-miller-go-od-am-2lp-249733.html?query_id=3"
+				}
+			]
+		},
+		{
+			"name": "Chromakopia",
+			"author": "Tyler, the Creator",
+			"photo": "images/chromakopia-tylerthecreator.jpg",
+			"chance": 8,
+			"versions": [
+				{
+					"desc": "2xLP, white",
+					"empik": "https://www.empik.com/chromakopia-plyta-winylowa-tyler-the-creator,p1675467161,muzyka-p?mpShopId=8886&utm_source=google&utm_medium=cpc&utm_campaign=22743149183&utm_id=22743149183&utm_term=empik_muzyka&gclsrc=aw.ds&gad_source=1&gad_campaignid=22737008598&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3A7MYRs1-OkvNRvXHQBSELYgUOrG6vwm12ES2M_QwL7NeblBYr6wqwaArEzEALw_wcB",
+					"muziker": "https://www.muziker.pl/tyler-the-creator-chromakopia-gatefold-sleeve-opaque-white-coloured-2-lp?gad_source=1&gad_campaignid=21154073474&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3DM5Y-pS6p5ya1Nrm7rfLd1cJFduAK76WS47Ch3NAmdSRFDpy5zRD8aAoW5EALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/tyler-the-creator-chromakopia-2lp-white-278119.html?gad_source=1&gad_campaignid=16862789932&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3CwB-JOqUm0sDRdrMO2zrj5Z2kUpXE32ET5movLptmKq6sKp_vtMJ4aAkPxEALw_wcB"
+				}
+			]
+		},
+		{
+			"name": "Stankonia",
+			"author": "Outkast",
+			"photo": "images/stankonia-outkast.jpg",
+			"chance": 8,
+			"versions": [
+				{
+					"desc": "2xLP, black",
+					"empik": "https://www.empik.com/stankonia-plyta-winylowa-outkast,p1514661857,muzyka-p",
+					"muziker": "https://www.muziker.pl/outkast-stankonia-reissue-2-lp?_gl=1*wr4j3y*_up*MQ..&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3Alomgd4aSQEw_HbMV4a7Qvr2nkeERmhtK2ViQVKAEmSgonyTikGUkaAtW2EALw_wcB"
+				},
+				{
+					"desc": "25 year anniversary, 3xLP, purple marble",
+					"empik": "https://www.empik.com/stankonia-25th-anniversary-edition-plyta-winylowa-outkast,p1668827198,muzyka-p",
+					"muziker": "https://www.muziker.pl/outkast-stankonia-25th-anniversary-edition-reissue-purple-marbled-coloured-3-lp?_gl=1*16o5fuo*_up*MQ..&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3Alomgd4aSQEw_HbMV4a7Qvr2nkeERmhtK2ViQVKAEmSgonyTikGUkaAtW2EALw_wcB",
+					"winylownia": "https://winylownia.pl/pl/products/outkast-stankonia-25th-anniversary-edition-3lp-coloured-252501.html?query_id=1"
 				}
 			]
 		}
