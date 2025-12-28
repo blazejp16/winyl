@@ -673,6 +673,18 @@
 					"winylownia": "https://winylownia.pl/pl/products/outkast-stankonia-25th-anniversary-edition-3lp-coloured-252501.html?query_id=1"
 				}
 			]
+		},
+		{
+			"name": "channel.ORANGE",
+			"author": "Frank Ocean",
+			"photo": "images/channelorange-frankocean.jpg",
+			"chance": 10,
+			"versions": [
+				{
+					"desc": "2xLP, black",
+					"autor": "https://blonded.co/"
+				}
+			]
 		}
 	],
 
