@@ -685,6 +685,18 @@
 					"autor": "https://blonded.co/"
 				}
 			]
+		},
+		{
+			"name": "Dark Times",
+			"author": "Vince Staples",
+			"photo": "images/darktimes-vincestaples.jpg",
+			"chance": 6,
+			"versions": [
+				{
+					"desc": "LP, black",
+					"muziker": "https://www.muziker.pl/vince-staples-dark-times-lp"
+				}
+			]
 		}
 	],
 
